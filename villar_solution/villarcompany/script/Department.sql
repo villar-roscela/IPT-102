@@ -1,0 +1,13 @@
+﻿USE VillarCompany
+
+GO
+INSERT INTO DEPARTMENT ([Dname],[Dnumber],[Mgr_ssn],[Mgr_start_date])
+VALUES
+('ADMIN', 001, 000001, '1997-07-11'), 
+('IT', 002, 000002, '1999-09-10'),
+('RESEARCH', 003, 000003, '1988-08-08');
+GO
+
+SELECT * FROM DEPARTMENT;
+
+DELETE FROM DEPARTMENT

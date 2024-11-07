@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Villar-IPT102\\IPT102\\villar_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\pages\\menu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\pages\\menu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\pages\\event.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\pages\\about us.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\data\\ucoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\data\\ucoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51438A8-527A-4525-800D-45B819AB9FD1}|villarcompany\\villarcompany.sqlproj|C:\\Villar-IPT102\\IPT102\\villar_solution\\villarcompany\\script\\Employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{C51438A8-527A-4525-800D-45B819AB9FD1}|villarcompany\\villarcompany.sqlproj|solutionrelative:villarcompany\\script\\Employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\villarweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\villarweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9FEDFB-1A92-4268-BD92-2F1671DB3D26}|VillarClassLibrary\\VillarClassLibrary.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9FEDFB-1A92-4268-BD92-2F1671DB3D26}|VillarClassLibrary\\VillarClassLibrary.csproj|solutionrelative:villarclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9FEDFB-1A92-4268-BD92-2F1671DB3D26}|VillarClassLibrary\\VillarClassLibrary.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarclasslibrary\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9FEDFB-1A92-4268-BD92-2F1671DB3D26}|VillarClassLibrary\\VillarClassLibrary.csproj|solutionrelative:villarclasslibrary\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9FEDFB-1A92-4268-BD92-2F1671DB3D26}|VillarClassLibrary\\VillarClassLibrary.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarclasslibrary\\interfaces\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9FEDFB-1A92-4268-BD92-2F1671DB3D26}|VillarClassLibrary\\VillarClassLibrary.csproj|solutionrelative:villarclasslibrary\\interfaces\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|c:\\villar-ipt102\\ipt102\\villar_solution\\villarweb\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30DE01BC-207E-4A2A-95B2-7D5FD523FCFB}|VillarWeb\\VillarWeb.csproj|solutionrelative:villarweb\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51438A8-527A-4525-800D-45B819AB9FD1}|villarcompany\\villarcompany.sqlproj|C:\\Villar-IPT102\\IPT102\\villar_solution\\villarcompany\\script\\Employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{C51438A8-527A-4525-800D-45B819AB9FD1}|villarcompany\\villarcompany.sqlproj|solutionrelative:villarcompany\\script\\Employee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "VillarWeb\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "VillarWeb\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T02:43:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\App.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\App.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\App.razor",
+              "RelativeToolTip": "VillarWeb\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T02:41:29.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "VillarWeb\\appsettings.json",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\appsettings.json",
+              "RelativeToolTip": "VillarWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T02:41:23.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Display.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\Pages\\Display.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Display.razor",
+              "RelativeToolTip": "VillarWeb\\Pages\\Display.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T02:37:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VillarWeb\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "VillarWeb\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T02:35:09.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.sql ",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\villarcompany\\script\\Employee.sql",
+              "RelativeDocumentMoniker": "villarcompany\\script\\Employee.sql",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\villarcompany\\script\\Employee.sql",
+              "RelativeToolTip": "villarcompany\\script\\Employee.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-07T02:05:07.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VillarWeb",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\VillarWeb.csproj",
+              "RelativeDocumentMoniker": "VillarWeb\\VillarWeb.csproj",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\VillarWeb.csproj",
+              "RelativeToolTip": "VillarWeb\\VillarWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T02:03:22.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Event.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\Pages\\Event.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Event.razor",
+              "RelativeToolTip": "VillarWeb\\Pages\\Event.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T01:53:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UCoffee.cs",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Data\\UCoffee.cs",
+              "RelativeDocumentMoniker": "VillarWeb\\Data\\UCoffee.cs",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Data\\UCoffee.cs",
+              "RelativeToolTip": "VillarWeb\\Data\\UCoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:35:46.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarClassLibrary\\Models\\Coffee.cs",
+              "RelativeDocumentMoniker": "VillarClassLibrary\\Models\\Coffee.cs",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarClassLibrary\\Models\\Coffee.cs",
+              "RelativeToolTip": "VillarClassLibrary\\Models\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:31:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICoffee.cs",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarClassLibrary\\Interfaces\\ICoffee.cs",
+              "RelativeDocumentMoniker": "VillarClassLibrary\\Interfaces\\ICoffee.cs",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarClassLibrary\\Interfaces\\ICoffee.cs",
+              "RelativeToolTip": "VillarClassLibrary\\Interfaces\\ICoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:30:44.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "VillarClassLibrary\\Class1.cs",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarClassLibrary\\Class1.cs",
+              "RelativeToolTip": "VillarClassLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:28:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About Us.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\About Us.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\Pages\\About Us.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\About Us.razor",
+              "RelativeToolTip": "VillarWeb\\Pages\\About Us.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T01:21:58.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\_Imports.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\_Imports.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\_Imports.razor",
+              "RelativeToolTip": "VillarWeb\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:47:05.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Menu.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\Pages\\Menu.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Menu.razor",
+              "RelativeToolTip": "VillarWeb\\Pages\\Menu.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:18:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "VillarWeb\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:15:57.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "VillarWeb\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:15:55.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Program.cs",
+              "RelativeDocumentMoniker": "VillarWeb\\Program.cs",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Program.cs",
+              "RelativeToolTip": "VillarWeb\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:15:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "VillarWeb\\Pages\\Index.razor",
+              "ToolTip": "C:\\Villar-IPT102\\IPT102\\villar_solution\\VillarWeb\\Pages\\Index.razor*",
+              "RelativeToolTip": "VillarWeb\\Pages\\Index.razor*",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwKAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:14:43.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

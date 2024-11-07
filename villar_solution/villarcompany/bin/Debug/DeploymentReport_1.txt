@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[aEmployee] (Table)
+       [dbo].[aEmployee].[PK_aEmployee_Name] (Index)
+       [dbo].[bDepartment] (Table)
+       [dbo].[bDepartment].[IX_bDepartment_Dnumber] (Index)
+       [dbo].[bDepartment].[UX_bDepartment_Dname] (Index)
+       [dbo].[cProject] (Table)
+       [dbo].[cProject].[IX_Project_Name] (Index)
+       [dbo].[dDependent] (Table)
+       [dbo].[dDependent].[IX_Dependent_Relatioship] (Index)
+       [dbo].[eDept-location] (Table)
+       [dbo].[eDept-location].[IX_Deptlocation_number] (Index)
+       [dbo].[eDept-location].[IX_Dept_location] (Index)
+       [dbo].[fWorks_On] (Table)
+       [dbo].[fWorks_On].[IX_Works_Number] (Index)
+       [dbo].[FK_bDepartment_Mgr_ssn] (Foreign Key)
+       [dbo].[FK_Project_Dnum] (Foreign Key)
+       [dbo].[FK_Dependent_Ssn] (Foreign Key)
+       [dbo].[FK_Dlocation_location] (Foreign Key)
+       [dbo].[FK_Works_Essn] (Foreign Key)
+       [dbo].[FK_Worls_Pno] (Foreign Key)
+       [dbo].[Create] (Procedure)
+       [dbo].[Delete] (Procedure)
+       [dbo].[Read] (Procedure)
+       [dbo].[Update] (Procedure)
+
+** Supporting actions

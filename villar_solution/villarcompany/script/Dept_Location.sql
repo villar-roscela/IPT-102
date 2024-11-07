@@ -1,0 +1,13 @@
+﻿USE VillarCompany
+GO
+
+INSERT DEPT_LOCATIONS ([Dnumber], [Dlocation])
+VALUES
+(001, 'Manila'),
+(002, 'Zoo'),
+(003, 'Nyee');
+GO
+
+SELECT * FROM DEPT_LOCATIONS;
+
+DELETE FROM DEPT_LOCATIONS

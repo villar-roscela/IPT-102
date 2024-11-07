@@ -1,0 +1,55 @@
+﻿@page "/Event"
+
+<div class="container mt-5 text-center">
+    <h2 class="mb-4">My Fav Artist</h2>
+
+    <p class="lead">: <strong>@_test</strong></p>
+
+    <div class="d-flex justify-content-center mt-4" role="group" aria-label="Name Entry Buttons">
+        <button class="btn btn-pink" @onclick="EnterGName">Kpop Group</button>
+        <button class="btn btn-info mx-2" @onclick="EnterMembers">Members</button>
+        <button class="btn" @onclick="EnterCName">Company</button>
+        <button class="btn btn-dark" @onclick="EnterSex">Sex</button>
+        <button class="btn" @onclick="EnterAge">Age</button>
+        <button class="btn btn-warning mx-2" @onclick="EnterLocation">Location</button>
+       
+    </div>
+</div>
+
+@code
+{
+    private string _test = string.Empty;
+
+    private void EnterMembers()
+    {
+        _test = "Rose, Jennie, Lisa, Jisoo";
+    }
+
+    private void EnterGName()
+    {
+        _test = "Blackpink";
+    }
+
+    private void EnterCName()
+    {
+        _test = "YG Entertainment";
+    }
+
+
+    private void EnterSex()
+    {
+        _test = "All Female";
+    }
+
+    private void EnterAge()
+    {
+        _test = "Rose(27), Jennie(27), Lissa(25), Jisoo(28)";
+    }
+
+    private void EnterLocation()
+    {
+        _test = "South Korea";
+    }
+
+
+}

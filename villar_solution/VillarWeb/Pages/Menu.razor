@@ -1,0 +1,149 @@
+﻿@page "/Menu"
+
+<h3>Menu</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+
+        .menu {
+            padding: 20px;
+        }
+
+        .menu h2 {
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 10px;
+            text-decoration: underline;
+        }
+
+        .menu-item {
+            background-color: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .menu-item h3 {
+            font-size: 1.8rem;
+            color: #3e2723;
+        }
+
+        .menu-item p {
+            font-size: 1.1rem;
+            color: #555;
+        }
+
+        .price {
+            font-weight: bold;
+            color: #3e2723;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Restaurant Menu</h1>
+        <p>Delicious food made with love!</p>
+    </header>
+
+    <!-- Menu Section -->
+    <div class="menu">
+
+        <!-- Starters Section -->
+        <section>
+            <h2>Starters</h2>
+            <div class="menu-item">
+                <h3>Bruschetta</h3>
+                <p>Toasted bread topped with diced tomatoes, garlic, basil, and olive oil.</p>
+                <span class="price">$5.99</span>
+            </div>
+            <div class="menu-item">
+                <h3>Stuffed Mushrooms</h3>
+                <p>Large mushrooms stuffed with garlic, herbs, and cheese.</p>
+                <span class="price">$7.49</span>
+            </div>
+        </section>
+
+        <!-- Main Dishes Section -->
+        <section>
+            <h2>Main Dishes</h2>
+            <div class="menu-item">
+                <h3>Grilled Chicken Breast</h3>
+                <p>Juicy grilled chicken served with mashed potatoes and vegetables.</p>
+                <span class="price">$14.99</span>
+            </div>
+            <div class="menu-item">
+                <h3>Spaghetti Bolognese</h3>
+                <p>Classic Italian pasta with a rich meat sauce.</p>
+                <span class="price">$12.99</span>
+            </div>
+            <div class="menu-item">
+                <h3>Vegetable Stir Fry</h3>
+                <p>Seasonal vegetables sautéed in soy sauce and served with rice.</p>
+                <span class="price">$11.49</span>
+            </div>
+        </section>
+
+        <!-- Desserts Section -->
+        <section>
+            <h2>Desserts</h2>
+            <div class="menu-item">
+                <h3>Chocolate Lava Cake</h3>
+                <p>Warm chocolate cake with a gooey molten center, served with vanilla ice cream.</p>
+                <span class="price">$6.99</span>
+            </div>
+            <div class="menu-item">
+                <h3>Cheesecake</h3>
+                <p>Classic cheesecake with a graham cracker crust, served with berry compote.</p>
+                <span class="price">$5.49</span>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Delicious Restaurant | All rights reserved</p>
+    </footer>
+
+</body>
+</html>
+
+@code {
+
+}

@@ -1,0 +1,11 @@
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\bin\Debug\net6.0\VillarClassLibrary.deps.json
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\bin\Debug\net6.0\VillarClassLibrary.dll
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\bin\Debug\net6.0\VillarClassLibrary.pdb
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\VillarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\VillarClassLibrary.AssemblyInfoInputs.cache
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\VillarClassLibrary.AssemblyInfo.cs
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\VillarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\VillarClassLibrary.dll
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\refint\VillarClassLibrary.dll
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\VillarClassLibrary.pdb
+C:\Villar-IPT102\IPT102\villar_solution\VillarClassLibrary\obj\Debug\net6.0\ref\VillarClassLibrary.dll

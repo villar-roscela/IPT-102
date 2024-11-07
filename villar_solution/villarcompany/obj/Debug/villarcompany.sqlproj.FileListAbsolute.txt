@@ -1,0 +1,6 @@
+C:\Villar-IPT102\IPT102\villar_solution\villarcompany\bin\Debug\villarcompany.dacpac
+C:\Villar-IPT102\IPT102\villar_solution\villarcompany\bin\Debug\villarcompany.dll
+C:\Villar-IPT102\IPT102\villar_solution\villarcompany\bin\Debug\villarcompany.pdb
+C:\Villar-IPT102\IPT102\villar_solution\villarcompany\obj\Debug\villarcompany.sqlproj.AssemblyReference.cache
+C:\Villar-IPT102\IPT102\villar_solution\villarcompany\obj\Debug\villarcompany.dll
+C:\Villar-IPT102\IPT102\villar_solution\villarcompany\obj\Debug\villarcompany.pdb

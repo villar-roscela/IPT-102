@@ -1,0 +1,67 @@
+﻿@page "/About Us"
+
+<div class="container mt-5">
+    <h5 class="text-center mb-4">PERSONAL INFORMATION</h5>
+
+    @if (showUCoffee)
+    {
+        <div class="alert alert-success">
+            <h4>PERSONAL DETAILS:</h4>
+            <p><strong>FIRST NAME:</strong> @Input.Fname</p>
+            <p><strong>LAST NAME:</strong> @Input.Lname</p>
+            <p><strong>EMAIL:</strong> @Input.Email</p>
+            <p><strong>MESSAGE:</strong> @Input.Message</p>
+        </div>
+    }
+
+    <EditForm Model="Input" OnValidSubmit="SubmitUCoffee" name="Response-form">
+        <div class="mb-3">
+            <label class="form-label" for="Fname">First Name</label>
+            <InputText @bind-Value="Input.Fname" class="form-control" id="Fname" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="Lname">Last Name</label>
+            <InputText @bind-Value="Input.Lname" class="form-control" id="Lname" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="Email">Email</label>
+            <InputText @bind-Value="Input.Email" class="form-control" id="Email" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label" for="Message">Message</label>
+            <InputText @bind-Value="Input.Message" class="form-control" id="Message" />
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <button class="btn btn-outline-success" type="submit">SAVE</button>
+            <button class="btn btn-outline-danger" type="button" @onclick="NewCoffee">NEW</button>
+        </div>
+    </EditForm>
+</div>
+
+@code
+{
+    private UCoffee Input { get; set; } = new();
+
+    private bool showUCoffee;
+
+    private void NewCoffee()
+    {
+        Input = new UCoffee();
+        showUCoffee = false;
+    }
+
+    private void SubmitUCoffee()
+    {
+        showUCoffee = true;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        showUCoffee = false;
+        await base.OnInitializedAsync();
+    }
+}
